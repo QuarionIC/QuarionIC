@@ -2,7 +2,7 @@
 
 My name is Quentin Mot. I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. I want to use my career to help others as much as possible. Currently, that means doing AI Safety research.
 
-You can contact me via email (qmot3@gatech.edu) or book a meeting with me on Calendly  (https://calendly.com/qmot/30min). You can find my CV <a href=https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing<here<a>.
+You can contact me via email (qmot3@gatech.edu) or book a meeting with me on Calendly  (https://calendly.com/qmot/30min). You can find my CV <a href=https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing>here<a>.
 
 <!--
 **QuarionIC/QuarionIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
