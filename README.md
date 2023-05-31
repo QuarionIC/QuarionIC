@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?id=12QgwZ6is5JSFaVDGnD_GKv_Q6Dnar04N">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?id=12QgwZ6is5JSFaVDGnD_GKv_Q6Dnar04N">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://drive.google.com/uc?id=12QgwZ6is5JSFaVDGnD_GKv_Q6Dnar04N">
-</picture>
-
-My name is Quentin Mot. I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. I want to use my career to help others as much as possible. Currently, that means doing AI Safety research.
+I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. I want to use my career to help others as much as possible. Currently, that means doing AI Safety research.
 
 You can contact me via email (qmot3@gatech.edu) or book a meeting with me on [Calendly](https://calendly.com/qmot/30min). You can find my CV [here](https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing)
 
@@ -21,6 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?id=12QgwZ6is5JSFaVDGnD_GKv_Q6Dnar04N">
+  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?id=12QgwZ6is5JSFaVDGnD_GKv_Q6Dnar04N">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://drive.google.com/uc?id=12QgwZ6is5JSFaVDGnD_GKv_Q6Dnar04N">
+</picture>
 </details>
 <details>
 <summary>Coursework</summary>
