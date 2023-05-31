@@ -1,4 +1,4 @@
-
+**About Me**
 
 I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. My career goal is to help others as 
 
