@@ -1,4 +1,6 @@
-### <center>Hi there</center> 👋
+
+
+I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. My career goal is to help others as 
 
 <!--
 **QuarionIC/QuarionIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
