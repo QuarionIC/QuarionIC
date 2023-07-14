@@ -10,7 +10,7 @@ I'm studying for a Bachelor's in Computer Science at Georgia Institute of Techno
 
 **Contact  Information**
 
-You can contact me via email (qmot3@gatech.edu) or book a meeting with me on [Calendly](https://calendly.com/qmot/30min). If you have any (anonymous) feedback about my GitHub, career plans, life choices, or anything else I would love to receive it [here](https://forms.gle/FPc3gCz9KRsddHoV9).
+You can contact me via email (qmot3@gatech.edu) or book a meeting with me on [Calendly](https://calendly.com/qmot/30min). If you have any feedback regarding me, I would love to receive it [here](https://forms.gle/FPc3gCz9KRsddHoV9). You can submit feedback anonymously or provide your contact information. I especially value thoughtful criticism. 
 
 <!--
 **QuarionIC/QuarionIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
