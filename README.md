@@ -8,7 +8,7 @@
 
 I want to help others as much as possible. Currently, that means (1) doing AI research; (2) maxmizing the expected counterfactual impact of my donations. I'm particularly concerned about the importance, neglectedness, and tractability of artificial sentience.
 
-I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. You can find my CV [here](https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing)
+More concretely, I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. You can find my CV [here](https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing)
 
 **Research**
 
