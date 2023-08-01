@@ -6,7 +6,13 @@
 
 **About Me**
 
-I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. I want to use my career to help others as much as possible. Currently, that means doing AI Safety research. You can find my CV [here](https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing)
+I want to help others as much as possible. Currently, that means (1) doing AI research; (2) maxmizing the expected counterfactual impact of my donations.
+
+I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. You can find my CV [here](https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing)
+
+**Research**
+
+My research goal is to develop a complete, scientific, and parsimonious theory of AI. I'm looking for research opportunities to help me accomplish that goal.
 
 **Contact  Information**
 
