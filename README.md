@@ -6,7 +6,7 @@
 
 **About Me**
 
-I want to help others as much as possible. Currently, that means (1) doing AI research; (2) maxmizing the expected counterfactual impact of my donations.
+I want to help others as much as possible. Currently, that means (1) doing AI research; (2) maxmizing the expected counterfactual impact of my donations. I'm particularly concerned about the importance, neglectedness, and tractability of artificial sentience.
 
 I'm studying for a Bachelor's in Computer Science at Georgia Institute of Technology. You can find my CV [here](https://drive.google.com/file/d/18x24Ke5Y-MAvti0AjoowCVwATXrfTEMA/view?usp=sharing)
 
@@ -20,7 +20,7 @@ You can contact me via email (qmot3@gatech.edu) or book a meeting with me on [Ca
 
 **Feedback**
 
-If you have any feedback regarding me, I would love to receive it [here](https://forms.gle/FPc3gCz9KRsddHoV9). You can submit feedback anonymously or provide your contact information. I especially value strong, thoughtful criticism. 
+If you have any feedback for me, I would (really, really, really!) love to receive it [here](https://forms.gle/FPc3gCz9KRsddHoV9). You can submit feedback anonymously or provide your contact information. I especially value strong, thoughtful criticism.
 
 <!--
 **QuarionIC/QuarionIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
