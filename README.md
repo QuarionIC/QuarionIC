@@ -12,7 +12,7 @@ I'm studying for a Bachelor's in Computer Science at Georgia Institute of Techno
 
 **Research**
 
-My  goal is to become a Principal Alignment Scientist. I'm interested in goal misgeneralization, out of distribution detection, calibration, and honesty research on AI systems.
+My  goal is to become a Principal Scientist of Scalable Alignment. Currently, I'm interested in goal misgeneralization, out of distribution detection, calibration, and honesty research on AI systems.
 
 **Contact  Information**
 
