@@ -12,7 +12,7 @@ I'm studying for a Bachelor's in Computer Science at Georgia Institute of Techno
 
 **Research**
 
-My  goal is to become a Principal Scientist of Scalable Alignment. Currently, I'm interested in research on goal misgeneralization, out of distribution detection, AI calibration, AI honesty, activation steering, and the science of deep learning.
+My  goal is to become a Principal Scientist of Scalable Alignment. Currently, I'm interested in research on goal misgeneralization, out of distribution detection, robustness, AI calibration, AI honesty, activation steering, proof of learning, and the science of deep learning.
 
 I'm especially excited about OpenAI's Superalignment team. If you are hiring to do similar work and you think I would be a good candidate, please reach out!
 
